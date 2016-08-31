@@ -7,7 +7,8 @@
 
 ##运维篇
 
-待完善...
+- [LNMP](http://lnmp.org/) - 鸟哥出的在LINUX系统中一键搭建LNMP环境的工具。强烈推荐购买有云服务器和VPS的开发者使用，省去了很多配置。
+- [XAMPP](https://www.apachefriends.org/zh_cn/index.html) - 一款国外开发者出的PHP运行环境，安装起来非常方便易用，特别是在OS X上省去了很多配置。
 
 ##前端篇
 
